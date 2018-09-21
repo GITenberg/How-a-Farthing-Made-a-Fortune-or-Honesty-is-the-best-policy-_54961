@@ -1,11 +1,16 @@
 _repo: How-a-Farthing-Made-a-Fortune-or-Honesty-is-the-best-policy-_54961
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54961-h/images/01_cover.jpg
 creator:
   author:
     agent_name: Bowen, C. E.
     gutenberg_agent_id: '48123'
     url: http://www.gutenberg.org/2009/agents/48123
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54961#How-a-Farthing-Made-a-Fortune-or-Honesty-is-the-best-policy-
 gutenberg_issued: '2017-06-22'
 gutenberg_type: Text
 identifiers:
